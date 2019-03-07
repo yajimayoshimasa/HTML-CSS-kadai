@@ -60,6 +60,7 @@ main{
 
 	.step-box{
 		float: none;
+		width: 40%;
 	}
 	main{
 		width: 100%;
@@ -76,7 +77,6 @@ main{
 		margin: 0 auto;
 	}
 	.boxes{
-		width: 90%;
 		margin: 0 auto;
 	}
 	}
